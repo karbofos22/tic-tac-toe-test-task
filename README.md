@@ -1,11 +1,9 @@
 Данный проект представляет собой REST API для игры в крестики-нолики. API предоставляет возможность создавать новые игры, делать ходы и получать информацию о состоянии игр.
 
-Стек технологий
-.NET Core
-Entity Framework Core
-SQLite
+Стек технологий: .NET Core, Entity Framework Core, SQLite
 
 Методы API
+
 Начало игры
 POST /api/game/start-game
 
